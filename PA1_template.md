@@ -2,9 +2,7 @@ Reproducible Research: Peer Assessment 1
 ========================================
 by Neelesh Kumar  
 github repo with RMarkdown source code:
-https://github.com/neeleshkumar12/RepData_PeerAssessment1  
-online rendered version on github pages:
-http://neeleshkumar12.net/RepData_PeerAssessment1/PA1_template.html  
+https://github.com/neeleshkumar12/RepData_PeerAssessment1   
 
 ## Loading and preprocessing the data
 
